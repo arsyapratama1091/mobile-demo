@@ -5,7 +5,7 @@ Flutter project.
 This project is a starting point for a Flutter application.
 
 Kelas 2D
-1.NIM - Nama
+1.361955401115 - M Arsya Pratama
 2. 
 
 Kelas 2E
